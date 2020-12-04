@@ -1,0 +1,12 @@
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.deps.json
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.runtimeconfig.json
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.runtimeconfig.dev.json
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.dll
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.pdb
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.csprojAssemblyReference.cache
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.AssemblyInfoInputs.cache
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.AssemblyInfo.cs
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.dll
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.pdb
+/Users/dustinowens/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.genruntimeconfig.cache
